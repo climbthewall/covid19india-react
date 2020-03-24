@@ -176,7 +176,7 @@ h6 {
   text-transform: none; 
 }
 
-.responsive {width: 80%;height: auto;}
+.responsive {width:100%;height: auto;}
 
 .Home {
   display: flex;
@@ -747,9 +747,8 @@ table {
 
 .HelpLine {
   display: flex;
-    flex-direction: column;
-    width: 100%;
-    min-height: 30rem;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .link {
@@ -834,6 +833,9 @@ footer {
   .link {
     margin: 0;
   }
+  .link2 {
+    margin: 0;
+  }
   .header {
     h1 {
       margin-top: -1rem;
@@ -854,6 +856,10 @@ footer {
     align-self: center;
     width: calc(100% - 0rem);
     .link {
+      width: 12rem;
+      margin-right: -0.75rem;
+    }
+    .link2 {
       width: 12rem;
       margin-right: -0.75rem;
     }
@@ -922,7 +928,7 @@ footer {
       flex-direction: column;
     }
   }
-  .link, .faq {
+  .link, .faq, .link2 {
     width: calc(100% - 2rem);
   }
   .Navbar {
