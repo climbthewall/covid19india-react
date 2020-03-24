@@ -56,9 +56,9 @@ function Home(props) {
             </div>
           </div>
 
-          <a href="https://bit.ly/covid19crowd" className="button telegram" target="_noblank">
+          <a href="https://www.facebook.com/groups/dmmalayalam/" className="button telegram" target="_noblank">
             <Icon.MessageCircle />
-            <span>Join Telegram to Collaborate!</span>
+            <span>Join Dank Memes Malayalam</span>
           </a>
         </div>
 
