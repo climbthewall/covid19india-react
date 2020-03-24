@@ -779,13 +779,13 @@ table {
   }
 }
 
-.link2 {
+.link {
   width: 30rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
   align-self: center;
   a {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
     text-transform: none;
     word-wrap: break-word;
     font-weight: 500;
@@ -956,19 +956,6 @@ footer {
   }
 }
 
-/* For the iPhone X folks OMG WHY ARE YOUR SCREENS SO NARROW T_T*/ 
-@media (max-width: 375px) {
-  .timeseries-mode {
-    display: block !important;
-    width: 4.25rem;
-    top: 2rem !important;
-    text-align: right;
-    input {
-      margin: 0;
-      margin-top: 0.25rem !important;
-    }
-  }
-}
 
 /* Animation Support */
 
