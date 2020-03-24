@@ -5,6 +5,9 @@ function Links(props) {
     <div className="Links">
 
       <div className="link fadeInUp" style={{animationDelay: '0.2s'}}>
+    <h3>Latest Update</h3>
+<p>24 March: PM Narendra Modi announced a complete nationwide lockdown, starting from midnight for 21 days.
+    </p>
       <h3>GoK Direct App</h3>
 <p>Get official information regarding the COVID-19 outbreak. Available on <a href="https://play.google.com/store/apps/details?id=com.qkopy.prdkerala">Playstore</a> and <a href="https://apps.apple.com/in/app/gok-direct/id1502436125">Appstore</a>.</p>
     <h3>Coping During COVID-19</h3>
