@@ -127,45 +127,52 @@ body {
   -webkit-touch-callout: none;
 }
 
+p {
+    font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    color: #343a40;
+    text-rendering: optimizeLegibility;
+    line-height: 1.6;
+}
+
 h1, {
   font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   font-size: 24px !important;
-  font-weight: 900;
+  font-weight: 600;
   text-transform: none;
 }
 
 h2 {
   font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   font-size: 18px !important;
-  font-weight: 400;
+  font-weight: 500;
   text-transform: none;
 }
 
 h3 {
   font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-  font-size: 14px !important;
-  font-weight: 400;
+  font-size: 17px !important;
+  font-weight: 500;
   text-transform: none; 
 }
 
 h4 {
   font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-  font-size: 13px !important;
-  font-weight: 900;
+  font-size: 16px !important;
+  font-weight: 500;
   text-transform: none; 
 }
 
 h5 {
   font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-  font-size: 12px !important;
-  font-weight: 900;
+  font-size: 14px !important;
+  font-weight: 500;
   text-transform: none; 
 }
 
 h6 {
   font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-  font-size: 11px !important;
-  font-weight: 600;
+  font-size: 13px !important;
+  font-weight: 500;
   text-transform: none; 
 }
 
@@ -188,8 +195,8 @@ h6 {
   flex-direction: column;
   height: 3rem;
   justify-content: space-around;
-  text-transform: none;
-  font-weight: 900;
+  text-transform: uppercase;
+  font-weight: 600;
   @include navbarReveal($gray-light);
   .navbar-left {
     margin-left: 2rem;
@@ -200,7 +207,7 @@ h6 {
       display: inline-block;
       font-size: 14px;
       font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-      text-decoration: none;
+      text-decoration: uppercase;
       margin-right: 2rem;
       color: $gray-mid;
       span {
@@ -276,11 +283,11 @@ a.button {
   padding: 0.5rem;
   border: none;
   font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-  text-transform: none;
+  text-transform: uppercase;
   background: $blue-light;
   color: $blue-mid;
   cursor: pointer;
-  font-weight: 900;
+  font-weight: 600;
   border-radius: 5px; 
   transition: background 0.2s ease-in-out;
   margin-bottom: 0.5rem;
