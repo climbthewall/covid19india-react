@@ -25,7 +25,7 @@ function Links(props) {
   <li><a href="https://go.mighil.com/39ic33s">കോവിഡ്-19 — ഒരു ഡാറ്റാസയന്റിസ്റ്റിന്റെ വീക്ഷണകോണില്‍</a></li>
   <li><a href="https://drive.google.com/file/d/1mIsxcbIZG_nZCISpqkan60yRVO1dVraW/view">PDF guide to COVID-19</a></li>
   <li><a href="https://www.coronasafe.in/">CoronaSafe Network</a></li>
-  <li><a href="https://github.com/ashishkhuraishy/CovidUpdates/raw/master/output/Covid%20Updates.apk">Covid Updates Android APP</a</li>
+  <li><a href="https://go.mighil.com/2xqhtfe">Covid Updates Android APP</a></li>
 </ul></p>
 <h3>Free ebooks</h3>
         <p><ul>
