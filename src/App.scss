@@ -1,65 +1,41 @@
 @font-face {
-  font-family: 'Archia';
-  src: url('fonts/Archia/archia-thin-webfont.eot');
-  src: url('fonts/Archia/archia-thin-webfont.eot?#iefix') format('embedded-opentype'),       
-  url('fonts/Archia/archia-thin-webfont.woff2') format('woff2'),       
-  url('fonts/Archia/archia-thin-webfont.woff') format('woff'),       
-  url('fonts/Archia/archia-thin-webfont.ttf') format('truetype');
+  font-family: 'Avenir';     
+  url('fonts/Archia/AvenirNext_Variable.ttf') format('truetype');
   font-weight: 100;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Archia';
-  src: url('fonts/Archia/archia-light-webfont.eot');
-  src: url('fonts/Archia/archia-light-webfont.eot?#iefix') format('embedded-opentype'),       
-  url('fonts/Archia/archia-light-webfont.woff2') format('woff2'),       
-  url('fonts/Archia/archia-light-webfont.woff') format('woff'),       
-  url('fonts/Archia/archia-light-webfont.ttf') format('truetype');
+  font-family: 'Avenir';      
+  url('fonts/Archia/AvenirNext_Variable.ttf') format('truetype');
   font-weight: 200;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Archia';
-  src: url('fonts/Archia/archia-regular-webfont.eot');
-  src: url('fonts/Archia/archia-regular-webfont.eot?#iefix') format('embedded-opentype'),       
-  url('fonts/Archia/archia-regular-webfont.woff2') format('woff2'),       
-  url('fonts/Archia/archia-regular-webfont.woff') format('woff'),       
-  url('fonts/Archia/archia-regular-webfont.ttf') format('truetype');
+  font-family: 'Avenir';     
+  url('fonts/Archia/AvenirNext_Variable.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Archia';
-  src: url('fonts/Archia/archia-medium-webfont.eot');
-  src: url('fonts/Archia/archia-medium-webfont.eot?#iefix') format('embedded-opentype'),       
-  url('fonts/Archia/archia-medium-webfont.woff2') format('woff2'),       
-  url('fonts/Archia/archia-medium-webfont.woff') format('woff'),       
-  url('fonts/Archia/archia-medium-webfont.ttf') format('truetype');
+  font-family: 'Avenir';      
+  url('fonts/Archia/AvenirNext_Variable.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Archia';
-  src: url('fonts/Archia/archia-semibold-webfont.eot');
-  src: url('fonts/Archia/archia-semibold-webfont.eot?#iefix') format('embedded-opentype'),       
-  url('fonts/Archia/archia-semibold-webfont.woff2') format('woff2'),       
-  url('fonts/Archia/archia-semibold-webfont.woff') format('woff'),       
-  url('fonts/Archia/archia-semibold-webfont.ttf') format('truetype');
+  font-family: 'Avenir';      
+  url('fonts/Archia/AvenirNext_Variable.ttf') format('truetype');
   font-weight: 600;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Archia';
-  src: url('fonts/Archia/archia-bold-webfont.eot');
-  src: url('fonts/Archia/archia-bold-webfont.eot?#iefix') format('embedded-opentype'),       
-  url('fonts/Archia/archia-bold-webfont.woff2') format('woff2'),       
-  url('fonts/Archia/archia-bold-webfont.woff') format('woff'),       
-  url('fonts/Archia/archia-bold-webfont.ttf') format('truetype');
+  font-family: 'Avenir';    
+  url('fonts/Archia/AvenirNext_Variable.ttf') format('truetype');
   font-weight: 900;
   font-style: normal;
 }
@@ -152,45 +128,45 @@ body {
 }
 
 h1, {
-  font-family: 'archia';
+  font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   font-size: 24px !important;
   font-weight: 900;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 h2 {
-  font-family: 'archia';
+  font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   font-size: 18px !important;
   font-weight: 400;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 h3 {
-  font-family: 'archia';
+  font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   font-size: 14px !important;
   font-weight: 400;
-  text-transform: uppercase; 
+  text-transform: none; 
 }
 
 h4 {
-  font-family: 'archia';
+  font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   font-size: 13px !important;
   font-weight: 900;
-  text-transform: uppercase; 
+  text-transform: none; 
 }
 
 h5 {
-  font-family: 'archia';
+  font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   font-size: 12px !important;
   font-weight: 900;
-  text-transform: uppercase; 
+  text-transform: none; 
 }
 
 h6 {
-  font-family: 'archia';
+  font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   font-size: 11px !important;
   font-weight: 600;
-  text-transform: uppercase; 
+  text-transform: none; 
 }
 
 .Home {
@@ -210,9 +186,9 @@ h6 {
 .Navbar {
   display: flex;
   flex-direction: column;
-  height: 4.5rem;
+  height: 3rem;
   justify-content: space-around;
-  text-transform: uppercase;
+  text-transform: none;
   font-weight: 900;
   @include navbarReveal($gray-light);
   .navbar-left {
@@ -223,7 +199,7 @@ h6 {
     a {
       display: inline-block;
       font-size: 14px;
-      font-family: 'Archia';
+      font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
       text-decoration: none;
       margin-right: 2rem;
       color: $gray-mid;
@@ -299,8 +275,8 @@ a.button {
   flex-direction: row;
   padding: 0.5rem;
   border: none;
-  font-family: 'archia';
-  text-transform: uppercase;
+  font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  text-transform: none;
   background: $blue-light;
   color: $blue-mid;
   cursor: pointer;
@@ -423,7 +399,7 @@ table {
   position: relative;
   width: 30rem;
   align-self: center;
-  font-family: 'archia';
+  font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   text-transform: uppercase;
   margin-bottom: 1rem;
   margin-top: 2rem;
@@ -520,7 +496,7 @@ table {
       text {
         text-transform: uppercase;
         text-align: right;
-        font-family: 'archia';
+        font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
         font-weight: 600;
         fill: $gray;
         font-size: 14px;
@@ -630,7 +606,7 @@ table {
     z-index: 99;
     input {margin: 0; cursor: pointer;}
     label {
-      font-family: 'archia';
+      font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
       text-transform: uppercase;
       font-size: 12px;
       font-weight: 900;
@@ -702,7 +678,7 @@ table {
         stroke-width: 2;
       }
       text {  
-        font-family: 'archia';
+        font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
         text-transform: uppercase;
         color: $cherry-mid;
         stroke: transparent;
@@ -766,8 +742,8 @@ table {
   margin-bottom: 1rem;
   align-self: center;
   a {
-    font-family: 'archia';
-    text-transform: uppercase;
+    font-family: 'Avenir',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    text-transform: none;
     word-wrap: break-word;
     font-weight: 900;
     text-decoration: none;
