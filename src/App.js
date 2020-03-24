@@ -38,7 +38,7 @@ function App() {
         <img src="/icon.png" alt="logo"/>
         <h5>We stand with everyone fighting on the frontlines</h5>
         <div className="link">
-          <a href="https://github.com/covid19india">Primary Source</a> - <a href="https://www.instagram.com/thedeadauthor/">Maintainer</a>
+          <a href="https://github.com/covid19india">Primary Source</a> - <a href="https://www.instagram.com/thedeadauthor/">DMMC Maintainer</a>
         </div>
       </footer>
 
