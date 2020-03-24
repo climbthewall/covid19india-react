@@ -176,10 +176,7 @@ h6 {
   text-transform: none; 
 }
 
-.responsive {
-  width: 100%;
-  height: auto;
-}
+.responsive {width: 100%;height: auto;}
 
 .Home {
   display: flex;
@@ -909,7 +906,7 @@ footer {
 }
 
 @media (max-width: 769px) {
-  .ChoroplethMap, .TimeSeries, table, .header, .Level, .timeseries-header, .TimeSeries-Parent, .Links, .Minigraph, .Summary, .FAQ {
+  .ChoroplethMap, .TimeSeries, table, .header, .Level, .timeseries-header, .TimeSeries-Parent, .Links, .HelpLine, .Minigraph, .Summary, .FAQ {
     width: calc(100% - 2rem);
   }
   .Home {
