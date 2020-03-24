@@ -176,7 +176,7 @@ h6 {
   text-transform: none; 
 }
 
-.responsive {width: 100%;height: auto;}
+.responsive {width: 80%;height: auto;}
 
 .Home {
   display: flex;
@@ -747,8 +747,9 @@ table {
 
 .HelpLine {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    min-height: 30rem;
 }
 
 .link {
