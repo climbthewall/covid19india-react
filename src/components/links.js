@@ -22,15 +22,15 @@ function Links(props) {
 </ul> </p>
 <h3>COVID-19 Related Tools Built by Malayali Makers</h3>
         <p><ul>
-  <li><a href="https://medium.com/@lakshmisunil12/%E0%B4%95%E0%B5%8B%E0%B4%B5%E0%B4%BF%E0%B4%A1%E0%B5%8D-19-%E0%B4%92%E0%B4%B0%E0%B5%81-%E0%B4%A1%E0%B4%BE%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BE%E0%B4%B8%E0%B4%AF%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%B8%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%86-%E0%B4%B5%E0%B5%80%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B4%A3%E0%B4%95%E0%B5%8B%E0%B4%A3%E0%B4%BF%E0%B4%B2%E0%B5%8D-41bf10cfbf6e">കോവിഡ്-19 — ഒരു ഡാറ്റാസയന്റിസ്റ്റിന്റെ വീക്ഷണകോണില്‍</a><em>, Lakshmi Sunil</em></li>
-  <li><a href="https://drive.google.com/file/d/1mIsxcbIZG_nZCISpqkan60yRVO1dVraW/view">PDF guide to COVID-19</a><em>, Anjana Prabhu-Paseband</em></li>
-  <li><a href="https://www.coronasafe.in/">CoronaSafe Network,</a> <em>@CoronaSafe</em></li>
-  <li><a href="https://github.com/ashishkhuraishy/CovidUpdates/raw/master/output/Covid%20Updates.apk">Covid Updates Android APP</a><em>, Ashish</em></li>
+  <li><a href="https://go.mighil.com/39ic33s">കോവിഡ്-19 — ഒരു ഡാറ്റാസയന്റിസ്റ്റിന്റെ വീക്ഷണകോണില്‍</a></li>
+  <li><a href="https://drive.google.com/file/d/1mIsxcbIZG_nZCISpqkan60yRVO1dVraW/view">PDF guide to COVID-19</a></li>
+  <li><a href="https://www.coronasafe.in/">CoronaSafe Network</a></li>
+  <li><a href="https://github.com/ashishkhuraishy/CovidUpdates/raw/master/output/Covid%20Updates.apk">Covid Updates Android APP</a</li>
 </ul></p>
 <h3>Free ebooks</h3>
         <p><ul>
-  <li><a href="https://ebooks.dcbooks.com/category/bookshelf/free-books">1 free ebook each day</a> <em>, DC Books</em></li>
-  <li><a href="https://b-ok.cc/">ebook Library</a><em>, ZLibrary</em></li>
+  <li><a href="https://ebooks.dcbooks.com/category/bookshelf/free-books">1 free ebook each day</a>, DC Books</li>
+  <li><a href="https://b-ok.cc/">ebook Library</a>, ZLibrary</li>
 </ul></p>
 <p><h3>Films to Watch</h3>
 <ul>
@@ -43,12 +43,12 @@ function Links(props) {
   <li><a href="https://drive.google.com/drive/u/0/folders/1aZmFnNswNHbKwSOclbNB189zfCa9l7Yb">Collection of films released between 1800 ~ 2020</a></li>
 </ul> </p>
 <h3>Malayalam Audio Books</h3>
-<p>വായിക്കാൻ ആഗ്രഹിച്ച 50 എഴുത്തുകാരുടെ കഥകൾ ഇനി വായിച്ചു കേൾക്കാം, വായിച്ചു പതിഞ്ഞ കഥകൾ ഒരിക്കൽ കൂടി വായിച്ചു കേൾക്കാൻ ഡെയ്‌ലി ന്യൂസ്‌ വായനാലോകം. Sucbscribe to their <a href="https://www.youtube.com/channel/UCtLKJYfFPFTScpMYDF9IMVQ/featured">YouTube channel.</a></p>
+<p>വായിക്കാൻ ആഗ്രഹിച്ച 50 എഴുത്തുകാരുടെ കഥകൾ ഇനി വായിച്ചു കേൾക്കാം, ഡെയ്‌ലി ന്യൂസ്‌ വായനാലോകം. Sucbscribe to their <a href="https://www.youtube.com/channel/UCtLKJYfFPFTScpMYDF9IMVQ/featured">YouTube channel.</a></p>
     <p>  <h3>Other Links</h3>
         <ul>
   <li><a href="https://www.mohfw.gov.in/">Ministry of Health and Family Welfare, Gov. of India</a></li>
-  <li><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">WHO : COVID-19 Home Page</a></li>
-  <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/faq.html">CDC</a></li>
+  <li><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">WHO: COVID-19 Home Page</a></li>
+  <li><a href="https://www.cdc.gov/coronavirus/2019-ncov/faq.html">Centers for Disease Control and Prevention</a></li>
   <li><a href="https://coronavirus.thebaselab.com/">COVID-19 Global Tracker</a></li>
 </ul> </p>
       </div>
